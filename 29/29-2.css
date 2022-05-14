@@ -1,0 +1,22 @@
+.row{
+    padding: 50px 0;
+    align-items: center;
+
+}
+.img-fluid{
+    width: 100%;
+}
+.first{
+text-align: center;
+}
+.navbar{
+    font-family: 'Press Start 2P',cursive;
+}
+.first{
+    font-family:'Philosopher',serif;
+
+}
+.header{
+    box-shadow: 0px 0px 10px black;
+   
+}
