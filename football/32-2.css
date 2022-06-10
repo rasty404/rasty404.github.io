@@ -1,0 +1,213 @@
+.stadium {
+    background-image: url(rm-1.jpeg);
+    background-color: rgba(0, 0, 0, 0.596);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 600px;
+    color: white;
+    text-align: center;
+    align-items: center;
+    font-size: 200%;
+    background-attachment: fixed;
+
+}
+
+.stadium-barca {
+    background-image: url(now.jpg);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 600px;
+    color: white;
+    text-align: center;
+    align-items: center;
+    font-size: 200%;
+    background-attachment: fixed;
+}
+
+.mu {
+    background-image: url(mui.jpg);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 600px;
+    color: white;
+    text-align: center;
+    align-items: center;
+    font-size: 200%;
+    background-attachment: fixed;
+}
+
+.enf {
+    background-image: url(enf.jpeg);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 600px;
+    color: white;
+    text-align: center;
+    align-items: center;
+    font-size: 200%;
+    background-attachment: fixed;
+}
+
+.arena {
+    background-image: url(arena.jpg);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 600px;
+    color: white;
+    text-align: center;
+    align-items: center;
+    font-size: 200%;
+    background-attachment: fixed;
+}
+
+h1 {
+    font-size: 5rem;
+    text-shadow: 0px 0px 15px black;
+}
+
+.header{
+    background-image: url(paste.png);
+    height: 600px;
+    background-position: 50% 50%;
+    background-size: cover;
+    color: white;
+align-items: center;
+justify-content: center;
+}
+.header-text{
+background-color: rgba(0, 0, 0, 0.815);
+padding: 20px;
+text-align: center;
+font-size: 20px;
+}
+
+.second{
+    padding-top: 60px;
+text-align: center;
+align-items: center;
+font-size: 25px;
+}
+footer{
+    background-color: black;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+footer .text{
+    color: gray;
+    /* text-align: right; */
+}
+.socio-item{
+    font-size: 2.3rem;
+    color: lightgray;
+    text-decoration: none;
+    transition: 0.5s;
+    margin-right: 10px;
+}
+.socio-item:hover{
+    color: aqua;
+    text-shadow: 0px 0px 7px white;
+}
+.nummer{
+    padding: 50px 0;
+    font-size: 30px;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+}
+
+.oh{
+    font-size: 20px;
+    text-align: center;
+    padding: 70px 0 ;
+}
+.barca{
+    font-size: 25px;
+    text-align: center;
+    padding: 50px;
+}
+.barsa{
+    padding: 50px;
+}
+.mu-top{
+    font-size: 25px;
+    padding: 40px;
+}
+.bavaria{
+    font-size: 20px;
+    padding: 50px;
+}
+h1{
+  
+    font-family: 'Stalinist One', cursive;
+}
+.hznesho .card{
+box-shadow: 5px 5px 5px gray;
+}
+.hzsho .card{
+    box-shadow: 5px 5px 5px gray;
+}
+
+p{
+    font-family: 'Marmelad', sans-serif;
+}
+.nesho{
+    padding: 50px;
+    font-size: 25px;
+}
+.che{
+    padding-bottom: 50px;
+}
+.pon{
+    padding-bottom: 50px;
+    padding-top: 40px;
+}
+.grahtsja{
+    padding: 80px;
+}
+.lutipon{
+    padding: 80px 80px 0 80px;
+}
+.nepon2{
+    padding: 50px;
+    font-size: 20px;
+}
+.chelti{
+    padding: 70px;
+}
+.xz{
+    padding: 80px;
+}
+.xzsho{
+    padding: 80px 80px 0 80px;
+}
+h2{
+    font-family: 'Andika', sans-serif;
+    
+} 
+.brea1{
+    padding: 80px;
+}
+.brea2{
+    padding: 0 80px 80px 80px;
+}
+li{
+    font-family: 'Balsamiq Sans', cursive;
+    color: black;
+}
+.navbar{
+    color: rgb(0, 255, 55);
+   background-color: rgb(75, 0, 0);
+}
+a{
+   
+    text-decoration: none;
+    transition: 0.5s;
+}
+.navbar-nav{
+    text-align: center;
+    align-items: center;
+}
+.nav-item{
+     color: rgb(61, 0, 0);
+}
